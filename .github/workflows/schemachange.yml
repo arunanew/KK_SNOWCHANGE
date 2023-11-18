@@ -6,7 +6,7 @@ on:
     branches:
       - master
     paths:
-      - 'scripts/**'
+      - 'KK_SNOWCHANGE/**'
 
   workflow_dispatch:
 
