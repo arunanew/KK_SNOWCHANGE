@@ -2,11 +2,11 @@ name: schema-change
 
 # Triggers the action based on branch and path. 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'scripts/V1.1.2_test1.sql'
+  # push:
+  #   branches:
+  #     - main
+  #   paths:
+  #     - 'scripts/V1.1.2_test1.sql'
 
   workflow_dispatch:
 
